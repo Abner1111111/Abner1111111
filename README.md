@@ -30,7 +30,7 @@ const johnAbner = {
     currentlyLearning: [
         "Data Analytics & Visualization",
         "Advanced UI/UX Principles",
-        "Cloud Architecture"
+   
     ],
     workExperience: [
         "CodeCollective IT Solutions (Intern)",
