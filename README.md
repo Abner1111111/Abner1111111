@@ -163,14 +163,9 @@ I'm always excited to connect with fellow developers, designers, and tech enthus
 
 ### 💬 "The only way to do great work is to love what you do." — Steve Jobs
 
-<br>
-
-[![GitHub followers](https://img.shields.io/github/followers/johnabnergarzon?label=Follow&style=social)](https://github.com/Abner1111111)
 
 
-<br>
-
-**⭐️ Made with 💙 by John Abner Garzon**
+**⭐️ Made by John Abner Garzon**
 
 <sub>Open to opportunities • Available for freelance projects • Let's build something amazing together!</sub>
 
